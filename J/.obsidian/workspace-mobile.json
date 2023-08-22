@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0c5ffd1d959a5790",
+    "id": "433ea1b3e2ae6c7f",
     "type": "split",
     "children": [
       {
-        "id": "c0db462336017d36",
+        "id": "946b8550e74faaaf",
         "type": "tabs",
         "children": [
           {
-            "id": "2afb0164f80b5d15",
+            "id": "1ed8af7849592542",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "33acf68fcc406817",
+    "id": "584c63ed96154fed",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "fc993aee4cfe7f1f",
+        "id": "2927993ec8fab5c5",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "87a9a79aa441e727",
+        "id": "335579c3b95d4600",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "86ce1ea03fed6fce",
+        "id": "2d22931bcd1e6dd5",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,22 +61,21 @@
         }
       },
       {
-        "id": "a5afa849cc2894f9",
+        "id": "8e6e1dd353e15ef9",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
-    "id": "543151227777db69",
+    "id": "6e887500ae4abeff",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f97411caf7a8ac95",
+        "id": "09b44dd757e61df7",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -92,7 +91,7 @@
         }
       },
       {
-        "id": "b06cac9c152455c4",
+        "id": "6ca78fc770e0d1b8",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -103,7 +102,7 @@
         }
       },
       {
-        "id": "88e8888060b79992",
+        "id": "c5713a312b521d35",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -123,9 +122,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2afb0164f80b5d15",
+  "active": "1ed8af7849592542",
   "lastOpenFiles": [
-    "botonera.md",
-    "2023-08-21.md"
+    "Untitled.md"
   ]
 }
