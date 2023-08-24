@@ -11,11 +11,24 @@
             "id": "333e017a69482dcc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c244cf18c5412511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas del practico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "6e887500ae4abeff",
@@ -80,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notas del practico.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -96,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Notas del practico.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Notas del practico.md"
+          }
         }
       }
     ],
@@ -122,8 +140,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "333e017a69482dcc",
+  "active": "c244cf18c5412511",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Notas del practico.md",
+    "Sociología del Uruguay",
+    "Sociología del"
   ]
 }
