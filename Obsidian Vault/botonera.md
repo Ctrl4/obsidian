@@ -1,1 +1,0 @@
-Algo. Que te pasa pelotuda?
