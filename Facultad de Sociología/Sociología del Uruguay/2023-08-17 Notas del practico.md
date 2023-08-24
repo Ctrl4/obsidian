@@ -1,0 +1,37 @@
+Incorporar la lectura. De manera repetitiva, y así poder asimilar conceptosteóricos, ej: identificar el marco teórico del autor.
+
+Algunos de los grandes núcleos problemáticos de la producción nacional que estudian los temas vinculados a la educación, o la seguridad, las élites. En noviembre no podemos irnos diciendo que nos sabemos todo sobre lo que estudia la Sociología. Los textos son un recorte, intencional, de quienes crearon el curso. 
+- Ahondar en lo que capte nuestro interés
+
+No se puede aislar al texto de su contexto. ¿En qué condiciones se dio ese texto? ¿Quién es el autor del mismo? Todo texto es un discurso. Es una forma de incidir en la realidad, pero también es incidida a su vez por la realidad.
+
+Todo texto se encuentra entre una relación dialéctica: Un texto, la situación, la institución y la estructura social en la que se enmarca.
+
+
+# ¿Qué es la Sociología?
+Sobre el video visto en clase:
+Sin duda descubrimos más personas. Múltiples relaciones. El ser humano en sociedad. Estudia la sociedad y sus fenómenos y la relación del ser humano con los demás. Se produce en 2 vías:
+- Afecta y condiciona la vida de las personas. Cultura, trabajo, clases sociales, valores y creencias
+- El comportamiento de las personas influye en los demás. Movimientos sociales, ocio, manera de estudiar, relaciones afectivas y con el medio ambiente
+
+La Sociología se encuentra en el núcleo de la sociedad. Es un ir y venir de teoría y práctica. Actitud crítica que lleva a indagar y preguntar.
+
+[[Tercer Sector]]: No es el [[sector privado]], ni el [[sector público]]. Las ONG se encuentran dentro de este sector.
+
+El motor de la sociología es la curiosidad. Lo que mantiene la capacidad de preguntar, de repreguntar, de entender el entorno social. Es una disciplina que está en constante desarrollo.
+
+A diferencia de la mirada crítica nos referimos a una **actitud crítica**, la cual implica incorporar un método científico.
+
+## ¿Qué se puede decir acerca del mate desde la sociología?
+
+El mate se le puede ver desde muchos aspectos:
+1. Dado su [[valor simbólico]] que tiene en la sociedad.
+2. [[Relaciones sociales]]
+3. [[Valor cultural]]
+4. [[Relaciones económicas]]
+
+Primer paso, despojarnos de las pre nociones: Culturalmente el mate es pilar fundamental para los uruguayos, sin embargos no tenemos ni una fábrica productora de yerba mate en el país. ¿Por qué?
+
+Mirada vinculada a la experiencia personal, individual, a la incidencia del lugar de origen, creencias populares del lugar a donde vivo. Cuando se empieza a realizar esa ruptura, se empieza a acercar a la sociología como ciencia.
+
+La sociología da señales de que la vida individual refleja el contexto en el cual se produce.

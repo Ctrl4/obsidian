@@ -1,1 +1,0 @@
-La lectura debe ser incorporada. Detenerse en el tiempo, 1 o 2 lecturas
