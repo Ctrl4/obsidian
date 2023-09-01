@@ -23,7 +23,6 @@ Al ser descubierta la operación, Estados Unidos acusó a la [[URSS]] de querer 
 
 ### 7) ¿Cuáles fueron las prioridades y características de la política exterior de EEUU hacia AL en el período de la Guerra Fría?
 
-### 8) Discuta las relaciones entre populismo y democracia en AL en el período de 1930 - 1960
 
 ### 9) Exponga las principales características estructurales e industriales del modelo agroexportador que se configuró en AL en la segunda mitad del Siglo XIX
 
@@ -51,6 +50,10 @@ Dijo la profe que hablé de las bases pero no definí estado oligárquico. Expli
 ### ¿Que relaciones y tensiones existieron según Braun entre el populismo y la democracia en América Latina en el período de 1930-1960?
 
 Explico las bases del ascenso al populismo pero no por que se piensa en aspectos tensionados entre... Tensión por la censura, pero se democratizó en cuanto que la gran masa de la población, esta vez sin otro requisito que ser mayor de edad, pueda elegir sus representantes. Democracia del bienestar
+
+Caracterízado por una prédica anti oligárquica, el populismo fue una manifestación de la masividad de la población, alejada de la política, entra en juego. Impulsaron políticas industrialistas en respuesta a las limitantes (ya manifiestas) del modelo anterior, agro exportador. 
+Aumentó el componente del mercado interno, conjunto con la industria. Se buscó satisfacer las nuevas demandas que devenían del cambio del campo a la ciudad que caracterizaba la época.
+Se promovió a los trabajadores a sindicalizarse, aunque con algunos matices, por ejemplo en el caso de Argentina con Perón, aquellos sindicatos que no eran peronistas eran saboteados. Es decir, las tensiones entre populismo  democracia se dan dada la masividad que entró al juego que anteriormente eran excluidos de los régimenes oligárquicos, ahora estaban siendo tomados en cuenta. Sin embargo el carácter autoritaria y hasta personalista de los lideres populistas devenieron en una gran censura a los partidos políticos y organizaciones que eran opositores, tanto de izquierda como de derecha. 
 
 ### ¿cuáles fueron, según Dominguez los tres temas principales en las relaciones entre Cuba y Estados Unidos durante los primeros meses de gobierno revolucionario?
 
