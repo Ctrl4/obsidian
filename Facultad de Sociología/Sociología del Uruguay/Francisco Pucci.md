@@ -1,0 +1,3 @@
+El ensayo “Modelos productivos y alcances de la reforma laboral en el Uruguay
+progresista” fue escrito por [[Francisco Pucci]]. Forma parte de un libro coordinado por [[Julio
+Cesar Neffa]]] y [[Enrique de la Garza Toledo]], bajo la institución CLACSO, elaborado en el año 2020. En cuanto al autor, Pucci, es docente de la Universidad de la República, y sociólogo con trabajos enfocados en la Sociología del trabajo-

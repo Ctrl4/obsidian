@@ -1,0 +1,1 @@
+No necesariamente todos, pero una élite de intelectuales tiene que tener la capacidad de la organización de la sociedad en general

@@ -1,4 +1,4 @@
-### 1) Describa las principales características del [[poder popular]] en Chile, durante el gobierno de [[Salvador Allende]]
+### 1) Describa las principales características del [[Poder Popular]] en Chile, durante el gobierno de [[Salvador Allende]]
 
 Fue la unión e trabajadores en conjunción con algunos sectoes más vulnerables de la población. Actuaban por iniciativa propia.
 Tenían como objetivo proteger sus comunidades de toda a amenaza que fuera en contra de las conquistas populares. La mayor expresión se dio en los [[cordones industriales]], donde se buscó realizar oposición a los intentos de desabastecimiento. Los trabajadores se unieron, tomaron industrias y administraron distintos servicios.
@@ -28,7 +28,7 @@ Al ser descubierta la operación, Estados Unidos acusó a la [[URSS]] de querer 
 
 Una serie de transformaciones burquesas de corte liberales se dieron en este período. De carácter [[anticlerical]] y [[antifeudal]]. No terminaron con los problemas que ocasionaban la gran concentración de dominio sobr ela tierra sino que lo agudizaron. Sentando las bases para lo que luego sería el período oligárquico en AL.
 A pesar d eque se impusieron las nuevas relaciones capitalistas en el territorio, en algunos lugares subsistieron, y hasta empeoraron, las cracterísticas de explotación servil de mano de obra aborigen. Favoreció el ascenso de la burquesía terrateniente y de algunas capas medias urbanas. También aparecieron los primeros núcleos obreros. Se produjo además el predominio comercial inglés, favoreciendo las políticas librecambistas.
-Entrando entonces en una etapa de [[capitalismo dependiente]], agroexportador. En la nueva división internacional del trabajo, a las naciones de América Latina, se les asignó el rol de exportadoras de [[materias primas]]. Las bases de esta desigual relación se dio por las naciones dominantes mediante la promoción de la infraestructura de transporte, producción y comercialización de estas materias. Dificultando cualquier opción de desarrollo propio. Se promovió la [[monoproducción]].
+Entrando entonces en una etapa de [[capitalismo dependiente]], agroexportador. En la nueva división internacional del trabajo, a las naciones de América Latina, se les asignó el rol de exportadoras de materias primas. Las bases de esta desigual relación se dio por las naciones dominantes mediante la promoción de la infraestructura de transporte, producción y comercialización de estas materias. Dificultando cualquier opción de desarrollo propio. Se promovió la monoproducción.
 
 ### 11) ¿Qué actores sociales se vieron beneficiados durante el gobierno de J. Arbenz en Guatemala y cuáles fueron los principales resultados de las políticas desarrolladas durante su presencia?
 
@@ -43,7 +43,7 @@ Entrando entonces en una etapa de [[capitalismo dependiente]], agroexportador. E
 
 
 ## Preguntas exámen de Julio
-### ### 10) Explique por qué se ha utilizado el concepto de República Oligárquica para referirse a los estados latinoamericanos entre fines del Siglo XIX y principios el S. XX
+### 10) Explique por qué se ha utilizado el concepto de República Oligárquica para referirse a los estados latinoamericanos entre fines del Siglo XIX y principios el S. XX
 
 Dijo la profe que hablé de las bases pero no definí estado oligárquico. Explicar las bases de la dominación oligárquica, el pacto oligárquico, el sufragio censitario, el gobierno de elite, el liberalismo económico.
 
@@ -55,7 +55,7 @@ Caracterízado por una prédica anti oligárquica, el populismo fue una manifest
 Aumentó el componente del mercado interno, conjunto con la industria. Se buscó satisfacer las nuevas demandas que devenían del cambio del campo a la ciudad que caracterizaba la época.
 Se promovió a los trabajadores a sindicalizarse, aunque con algunos matices, por ejemplo en el caso de Argentina con Perón, aquellos sindicatos que no eran peronistas eran saboteados. Es decir, las tensiones entre populismo  democracia se dan dada la masividad que entró al juego que anteriormente eran excluidos de los régimenes oligárquicos, ahora estaban siendo tomados en cuenta. Sin embargo el carácter autoritaria y hasta personalista de los lideres populistas devenieron en una gran censura a los partidos políticos y organizaciones que eran opositores, tanto de izquierda como de derecha. 
 
-### ¿cuáles fueron, según Dominguez los tres temas principales en las relaciones entre Cuba y Estados Unidos durante los primeros meses de gobierno revolucionario?
+	### ¿cuáles fueron, según Dominguez los tres temas principales en las relaciones entre Cuba y Estados Unidos durante los primeros meses de gobierno revolucionario?
 
 
 ### ¿Por qué según Thorp el auge de los préstamos externos en los años 70 y 80 del siglo XX ocultó los "verdaderos problemas del desarrollo latinoamericano con engaños y un peligroso velo de dólares"?
