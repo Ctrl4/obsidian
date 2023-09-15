@@ -13,7 +13,7 @@ Munch había logrado sin saberlo algo increíble, había logrado pintar un sonid
 
 ## Obras - Ideas clave
 
-Su premisa tiene que ver con los cambios que a nivel de la infraestructura van a implicar un cambio en la obra y el creador como en la recepción de la obra. 
+Su premisa tiene que ver con los cambios que a nivel de la superestructura van a implicar un cambio en la obra y el creador como en la recepción de la obra. 
 
 Es decir un cambio en la obra (infra estructura) va a tener consecuencias en la obra, en quien crea la obra y quien se encuentra con la obra.
 
