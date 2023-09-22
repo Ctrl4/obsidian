@@ -40,9 +40,9 @@ Hay que avanzar un poco más allá. Pone en tensión lo que tiene que ver la fun
 ### Cine vs Teatro
 Humanizando, poniéndole el cuerpo a el desarrollo tecnológico, lo que podría haber sido una simple reproductibilidad sin mayor sentido.
 
-Alienado en la fábrica va al cine y ve a alguien iviendo de algún modo lo que ese intérprete les está regalando a través de la película. 
+Alienado en la fábrica va al cine y ve a alguien viviendo de algún modo lo que ese intérprete les está regalando a través de la película. 
 
-La actriz o actor, a pesar d eestar en presencia de toda esa maquinaria, logra transmitir autenticidad, presenta su humanidad. 
+La actriz o actor, a pesar de estar en presencia de toda esa maquinaria, logra transmitir autenticidad, presenta su humanidad. 
 
 El cine, para Benjamin, pone de manifiesto las condiciones de posibilidad de un uso distinto de la técnica.
 

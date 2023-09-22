@@ -1,3 +1,8 @@
+---
+aliases:
+  - Benjamin
+---
+
 Filósofo, crítico y ensayista judío, nace en Alemania, en una familia judía "acomodada”, en 1892 y se suicida en 1940 en la frontera franco-española. Crece en un ambiente rodeado de intelectuales: su tío fue [[William Stern]], alemán, psicólogo infantil promiente, que  desarrolló el concepto de coeficiente intelectual (IQ), su primo fue [[Günther Anders]], filósofo alemán y activista antinuclear que estudió con [[Edmund Husserl]] y [[Martin Heidegger]]. Su tío abuelo fue un arqueólogo clásico, [[Gustav Hirschfeld]]. Además su primo fue el primer esposo de [[Hannah Arendt]], con quien entabló también amistad.  Era un gran admirador de [[Baudelaire]] y amigo de [[Bertol Brecht]]. 
 
 La muerte de Benjamin se destaca por su tinte trágico. El filósofo estaba siendo perseguido por la Gestapo y tenía que dejar Europa. Decide cruzar la frontera de Francia a España pero el día que llega a la frontera, está cerrada. Ante la desesperación, se suicida tomando mucha morfina. Al día siguiente se abre la frontera.

@@ -1,0 +1,2 @@
+Todos los miembros de un partido político es considerado un [[Intelectuales|intelectual]] (p.11). En mayor o menor medida todos lo son. Lo importa es la función directiva y organizativa. Sin importar el carácter de lo que unifique a ese partido, ya sea empresario, agricultor, o industrial. Ninguno se entra a un partido a incrementar su producción, o cultivar mejor la tierra, etc. Para esos propósitos se encuentran los sindicatos. 
+Su desarrollo histórico es superado y se convierten en agentes de actividades generales, de caracter nacional e internacional.

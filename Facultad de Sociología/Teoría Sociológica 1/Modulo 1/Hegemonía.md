@@ -1,0 +1,6 @@
+La formación de los intelectuales p.9
+Por ahora se pueden fijar dos grandes planos superestructurales, el que se puede llamar de la "sociedad civil", que está formado por el conjunto de los organismos vulgarmente llamados "privados", y el de la "sociedad política o Estado"; y que corresponden a la función de "hegemonía" que el grupo dominante ejerce en toda sociedad y a la de "dominio directo" o de comando que se expresa en el Estado y en el gobierno "jurídico". Estas funciones son precisamente organizativas y conectivas. Los [[intelectuales]] son los "empleados" del grupo dominante para el ejercicio de las funciones subalternas de la hegemonía social y del gobierno político, a saber: 
+1) del "consenso" espontáneo que las grandes masas de la población dan a la dirección impuesta a la vida social por el grupo fundamental dominante, consenso que históricamente nace del prestigio (y por lo tanto de la confianza) que el grupo dominante deriva de su posición y de su función en el mundo de la producción
+2) del aparato de coerción estatal que asegura "legalmente" la disciplina de aquellos grupos que no "consienten" ni activa ni pasivamente, pero que el mismo está preparado para toda la sociedad en previsión de los momentos de crisis en el comando y en la dirección, casos en que no se da el consenso espontáneo.
+
+[[Partido Político]]
