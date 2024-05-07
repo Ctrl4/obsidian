@@ -54,3 +54,10 @@ Esto no implica que no deba haber políticas públicas, construcción teórica, 
 Trae la teoría de campos de [[Bourdieu]]. Campo del sindicalismo, o campo de la Universidad.
 
 Ejemplo en el que los años de la experiencia, de trayectoria de los adultos, existe también la subversión de llegar, cuanto más joven mejor, a tener doctorado como para poner en tensión la experiencia de la persona. 
+
+
+[[Miopia]] p. 86
+Foucault para explicar la manera administrativa de organizar a la sociedad en clases de edad y por tanto homogeneizando
+
+"La clase social de origen determina en gran medida las oportunidades" (p. 87)
+No significa lo mismo tener 18 años para la clase media que para la clase baja

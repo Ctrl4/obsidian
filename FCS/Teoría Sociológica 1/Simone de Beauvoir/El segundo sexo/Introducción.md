@@ -115,3 +115,5 @@ Se precisa mucha abnegación para negarse a aparecer como Sujeto único y absolu
 
 
 Empezaremos por discutir los puntos de vista adoptados por la biología, el psicoanálisis y el materialismo histórico sobre la mujer. Trataremos de mostrar en seguida, positivamente, cómo se ha constituido la «realidad femenina», por qué la mujer ha sido definida como lo Otro y cuáles han sido las consecuencias desde el punto de vista de los hombres
+
+
